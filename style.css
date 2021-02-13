@@ -1,0 +1,25 @@
+.search-input{
+    background-color: #f1f3f4;
+     border: none; 
+     border-radius: 0.4rem;
+     width: 35rem;
+     padding: 0.6rem 2.5rem; 
+     outline: none;
+  
+  }
+  .search-input:focus{
+    -webkit-box-shadow: -2px 2px 40px 5px rgba(0,0,0,0.62); 
+    box-shadow: -2px 2px 40px 5px rgba(0,0,0,0.62);  
+  }
+  
+  .input-group{
+    position: relative;
+  
+  }
+  .fas fa-search{
+    position: absolute;
+    left: 0.8rem;
+    top: 0.8rem;
+    color: #5f6368;
+  
+  }

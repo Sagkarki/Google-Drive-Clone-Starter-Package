@@ -42,8 +42,22 @@ a:hover{
      -moz-box-shadow: -1px 0px 10px -5px rgba(0,0,0,0.44);
      border-radius: 4rem;
  }
- .new-btn h5, .left-bar-btn i, .left-bar-btn{
+ .new-btn h5, .left-bar-btn i, .left-bar-btn, .my-drive-list i,.quick-access p{
      color: #75787a;
 
+ }
+ .my-drive-btn{
+     font-size: 1.2rem;
+
+ }
+ .card h5{
+     color: #474747;
+ }
+ .fa-stream{
+     color: #4285f4
+ 
+ }
+ .fa-image{
+     color: #d93126;
  }
  
